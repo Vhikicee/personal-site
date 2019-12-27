@@ -1,0 +1,130 @@
+body{
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+h1 {
+  line-height: 2;
+  font-size: 90px;
+  margin-top: 0;
+font-family: 'Great Vibes', cursive;
+color: #66BFBF;
+}
+p{
+  font-weight: bold;
+  line-height: 2;
+  text-align: left;
+  font-size: 0.75em;
+}
+h2 {
+color: #66BFBF;
+  font-family: 'Mukta', sans-serif;
+}
+h3 {
+  font-family: 'Mukta', sans-serif;
+  color: #119993;
+}
+hr{
+border: dotted #eaf6f6 6px;
+border-bottom: none;
+width: 4%;
+}
+.myOffer{
+  width: 400px;
+  margin: 60px auto 40px;
+}
+.profile-picture{
+  border-radius: 100%;
+  position: relative;
+  height: 250px;
+}
+.skills{
+  margin-top: 50px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+}
+.piano-img{
+  width: 30%;
+  float: left;
+  margin-right: 40px;
+}
+.graphics{
+  width: 25%;
+  float: right;
+}
+.intro{
+  width: 300px;
+  margin: auto;
+  margin-bottom: 50px;
+}
+.top-container{
+  background-color: #effffb;
+  position:relative;
+  margin: 0 auto 100px;
+  padding-top: 100px;
+}
+.top-cloud {
+  position: absolute;
+  right: 250px;
+  top: 40px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 250;
+}
+.middle-container{
+  text-align: center;
+}
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 50px;
+}
+.contact-me{
+  margin: 40px auto 60px auto;
+}
+.copyright{
+ color: #eaf6f6;
+ font-size: 0.75em;
+ position: relative;
+ left: 600px;
+ top: 50px;
+}
+.footer-link{
+  color:#119993;
+  text-decoration: none;
+  margin: 100px;
+}
+
+#web-developer{
+  font-weight: normal;
+}
+.btn {
+	background:linear-gradient(to bottom, #119992 5%, #66bfbf 100%);
+	background-color:#119992;
+	border-radius:10px;
+	border:1px solid #119992;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:14px;
+	font-weight:bold;
+	padding:13px 23px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2b665e;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #66bfbf 5%, #119992 100%);
+	background-color:#66bfbf;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.footer-link:hover{
+  color: #66bfbf;
+}
